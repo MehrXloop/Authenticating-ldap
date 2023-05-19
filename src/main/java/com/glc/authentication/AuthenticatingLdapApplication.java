@@ -11,3 +11,6 @@ public class AuthenticatingLdapApplication {
 	}
 
 }
+
+//username :ben
+//password: benspassword
